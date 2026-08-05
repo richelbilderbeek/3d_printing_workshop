@@ -19,7 +19,7 @@ A simple 3D printed cube.
 After this workshop, you have:
 
 - used at least one of the
-  [3D skrivingskurs](https://uppsala-makerspace.github.io/3d_skrivningskurs/)
+  [3D skrivingskurs](https://richelbilderbeek.github.io/3d_skrivningskurs/)
   booklets.
 - used PrusaSlicer
 - used a 3D printer
@@ -35,7 +35,7 @@ Nothing.
 
 We will be using the UMS laptops, UMS 3D printers
 and the printed booklets (in both English and Swedish) of
-[3D skrivingskurs](https://uppsala-makerspace.github.io/3d_skrivningskurs/).
+[3D skrivingskurs](https://richelbilderbeek.github.io/3d_skrivningskurs/).
 All of these are present at UMS.
 
 However:
